@@ -1,4 +1,4 @@
-# Hosting Link - https://airbnb-clone-sharan.herokuapp.com/
+# Hosting Link - https://airbnb-clone-git-main-sharansudhir.vercel.app/
 
 Developed using Next.js and Tailwind CSS
 
