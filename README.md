@@ -1,3 +1,7 @@
+# Hosting Link - https://airbnb-clone-nc5twa3p4-sharansudhir.vercel.app/
+
+Developed using Next.js and Tailwind CSS
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
